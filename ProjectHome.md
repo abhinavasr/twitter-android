@@ -1,0 +1,1 @@
+This project is an (unofficial) library to integrate twitter in Android applications. Using this library you can allow users to post tweets from with-in your applications.
